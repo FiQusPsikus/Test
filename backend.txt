@@ -1,16 +1,12 @@
-
 wwwwww
 wwwwww
-wwwww
+wwwww 
 <html>www
+<head>
+braklo ci tu parsowqania jsona abc
 </head>
-www
-w
-w
-w
-w
-w
-w
-w
-w
-
+<body>
+    twoja taka
+    niewygodna
+</body>
+</html>
