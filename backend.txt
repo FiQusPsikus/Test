@@ -1,9 +1,6 @@
-wwwwww
-wwwwww
-wwwww 
 import java from java.java;
 
-<html>www
+<html>
 
     <head>
         braklo ci tu parsowqania jsona abc
