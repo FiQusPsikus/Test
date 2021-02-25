@@ -1,12 +1,26 @@
 wwwwww
 wwwwww
 wwwww 
+import java from java.java;
+
 <html>www
-<head>
-braklo ci tu parsowqania jsona abc
-</head>
-<body>
-    twoja taka
-    niewygodna
-</body>
+
+    <head>
+        braklo ci tu parsowqania jsona abc
+    </head>
+
+    <body>
+        twoja taka
+        niewygodna
+    </body>
+
+    int main() {
+        JButton button = new JButton();
+        let plyn_do migaczy = new Dziennik(import dziennik.java);
+
+        while( EOF == zajons.http ) {
+            console.error("tak sie nie da robic");
+        }
+    }
+
 </html>
