@@ -1,9 +1,0 @@
-<html>
-<head>
-braklo ci tu parsowqania jsona abc
-</head>
-<body>
-    twoja taka
-    niewygodna
-</body>
-</html>
