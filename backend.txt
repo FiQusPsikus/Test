@@ -1,7 +1,4 @@
-wwwwww
-wwwwww
-wwwww 
-<html>www
+<html>
 <head>
 braklo ci tu parsowqania jsona abc
 </head>
