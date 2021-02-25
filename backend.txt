@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 wwwwww
 wwwwww
 wwwww
 <html>www
 </head>
 braklo ci tu parsowqania jsona abc
+=======
+<html>
+>>>>>>> parent of 8d166a7 (Update backend.txt)
