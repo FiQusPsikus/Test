@@ -5,4 +5,5 @@ class java extends java {
         this.java=new JButton();
 	Bejton = nju bejton;
     }
+	Bejton nju bejton;
 }
